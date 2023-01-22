@@ -1,0 +1,5 @@
+{
+    "assets": "./assets",
+    "lua": "./lua",
+    "entrypoint": "main.lua"
+}
